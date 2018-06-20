@@ -1,16 +1,16 @@
-.card-wrapper {
+.card {
   background: #dfe6e9;
   border-radius: 1rem;
   margin: 20px;
   padding: 2rem;
 }
 
-.card-wrapper > .title {
+.title {
   font-size: 2rem;
   color: #6c5ce7;
 }
 
-.card-wrapper > .text {
+.text {
   font-size: 1rem;
   color: #636e72;
 }
