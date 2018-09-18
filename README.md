@@ -1,4 +1,4 @@
-# react styles
+# React Styles
 
 Simple examples that how use CSS in React following ways:
 - Inline
