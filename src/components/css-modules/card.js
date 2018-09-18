@@ -1,6 +1,8 @@
 import React from 'react'
 import styles from './styles.css'
 
+console.log(styles)
+
 const Card = () => (
   <div className={styles.card}>
     <h1 className={styles.title}>Título</h1>
